@@ -1,5 +1,6 @@
 package cmr
 
+// customized marshal json
 import (
 	"bytes"
 	"encoding/json"
